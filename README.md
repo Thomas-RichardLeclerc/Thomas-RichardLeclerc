@@ -1,16 +1,26 @@
-## Hi there 👋
+## Thomas Richard-Leclerc
 
-<!--
-**Thomas-RichardLeclerc/Thomas-RichardLeclerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En reconversion vers l'intelligence artificielle et la data.
 
-Here are some ideas to get you started:
+Objectif : Bachelor 3 IA & Data en alternance, rentrée septembre 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ce que je construis
+
+J'apprends en public. Chaque compétence acquise donne lieu à un projet versionné ici.
+
+| Domaine | Statut |
+|---|---|
+| Git & GitHub | Acquis |
+| Python | En cours |
+| SQL & bases de données | À venir |
+| Automatisation (n8n) | À venir |
+| IA agentique & RAG | À venir |
+
+### Portfolio
+
+https://thomas-richardleclerc.github.io
+
+### Parcours
+
+Bac+3 Commerce, Bac+3 Communication et webmarketing.
+Actuellement en poste, reconversion menée en parallèle.
