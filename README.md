@@ -11,6 +11,7 @@ J'apprends en public. Chaque compétence acquise donne lieu à un projet version
 | Domaine | Statut |
 |---|---|
 | Git & GitHub | Acquis |
+| Agents de code (Claude Code) | Acquis |
 | Python | En cours |
 | SQL & bases de données | À venir |
 | Automatisation (n8n) | À venir |
